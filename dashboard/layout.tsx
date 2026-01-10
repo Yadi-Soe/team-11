@@ -7,6 +7,7 @@ export default function RootLayout({
   return (
     <div id="dashboard-layout">
         {children}
+        <h1>hello dashboard</h1>
     </div>
   );
 }
